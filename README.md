@@ -18,4 +18,4 @@ Input name of capital and it'll give you name of country
 
 Input name of Counrty and it'll give you name of it's Capital
 
-[Search for Capital of "Jordan"](https://capital-finder-six.vercel.app/api/country_finder?name=Jordan)
+[Search for Capital of "Jordan"](https://capital-finder-six.vercel.app/api/capital_finder?name=Jordan)
